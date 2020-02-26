@@ -1,19 +1,14 @@
-// JavaScriptでは変数名の前に'var'を付ける事で、変数を宣言。var = variable の略
-// var 変数名 = 内容;
+// 四則演算の書き方
+// + 足し算, - 引き算, * 掛け算, / 割り算,
 
-var hello = "Hallo, World";
-alert(hello);
+// 足し算
+alert(4 + 3);
 
-// 変数には、任意の数値、文字列、関数、も代入出来る。
+// 引き算
+alert(8 - 5);
 
-// 整数を代入
-var int1 = 1;
+// 掛け算
+alert(2 * 6);
 
-// 負数を代入
-var int2 = -10;
-
-// 小数点を代入
-var float = 3.14;
-
-// 文字列を代入
-var str1 = 'JavaScriptを覚えよう';
+// 割り算
+alert(10 /2);
